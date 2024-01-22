@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringCoreAnnotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCoreAnnotations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringDependencyInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringDependencyInjection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringIOC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringIOC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringRestApi1/springrestapi1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringRestApi1/springrestapi1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/course-api/course-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/course-api/course-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/courseapi2/courseapi2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/courseapi2/courseapi2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer-api/customer-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer-api/customer-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/employee-api/employee-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/employee-api/employee-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-api/security-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/security-api/security-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvcdemo1/springmvcdemo1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvcdemo1/springmvcdemo1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvcdemo2/springmvcdemo2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvcdemo2/springmvcdemo2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvcdemo3/springmvcdemo3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvcdemo3/springmvcdemo3/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="employee-api" />
+        <module name="customer-api" />
+        <module name="SpringIOC" />
+        <module name="springmvcdemo1" />
+        <module name="springrestapi1" />
+        <module name="springmvcdemo2" />
+        <module name="security-api" />
+        <module name="springmvcdemo3" />
+        <module name="course-api" />
+        <module name="SpringCoreAnnotations" />
+        <module name="courseapi2" />
+        <module name="SpringDependencyInjection" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="course-api" target="1.8" />
+      <module name="courseapi2" target="1.8" />
+      <module name="customer-api" target="1.8" />
+      <module name="employee-api" target="1.8" />
+      <module name="security-api" target="1.8" />
+      <module name="SpringCoreAnnotations" target="1.8" />
+      <module name="SpringDependencyInjection" target="1.8" />
+      <module name="SpringIOC" target="1.8" />
+      <module name="springmvcdemo1" target="1.8" />
+      <module name="springmvcdemo2" target="1.8" />
+      <module name="springmvcdemo3" target="1.8" />
+      <module name="springrestapi1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="course-api" options="-parameters" />
+      <module name="courseapi2" options="-parameters" />
+      <module name="customer-api" options="-parameters" />
+      <module name="employee-api" options="-parameters" />
+      <module name="security-api" options="-parameters" />
+      <module name="springmvcdemo1" options="-parameters" />
+      <module name="springmvcdemo2" options="-parameters" />
+      <module name="springmvcdemo3" options="-parameters" />
+      <module name="springrestapi1" options="-parameters" />
+    </option>
+  </component>
+</project>

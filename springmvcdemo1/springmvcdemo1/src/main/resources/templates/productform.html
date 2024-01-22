@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en"xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Contactus</title>
+</head>
+<body>
+      <h1>Welcome to the Contactus Page</h1>
+
+      <h2>Form</h2>
+
+    <form th:action="@{/saveproduct}" method="post" th:object ="${store}">
+
+        <label>Enter Item : </label>
+        <input type="text" name="item" th:field="*{item}"><br></br>
+
+        <label>Enter Cost : </label>
+        <input type="text" name="cost" th:field="*{cost}"><br></br>
+
+        <label>Enter Revenue : </label>
+        <input type="text"name="revenue" th:field="*{revenue}"><br></br>
+
+
+        <input type="submit"value="SUBMIT">
+
+
+    </form>
+
+</body>
+</html>

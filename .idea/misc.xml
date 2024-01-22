@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringIOC/pom.xml" />
+        <option value="$PROJECT_DIR$/course-api/course-api/pom.xml" />
+        <option value="$PROJECT_DIR$/courseapi2/courseapi2/pom.xml" />
+        <option value="$PROJECT_DIR$/customer-api/customer-api/pom.xml" />
+        <option value="$PROJECT_DIR$/employee-api/employee-api/pom.xml" />
+        <option value="$PROJECT_DIR$/security-api/security-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvcdemo1/springmvcdemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvcdemo2/springmvcdemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvcdemo3/springmvcdemo3/pom.xml" />
+        <option value="$PROJECT_DIR$/springrestapi1/springrestapi1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCoreAnnotations/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDependencyInjection/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
