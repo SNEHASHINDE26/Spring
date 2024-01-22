@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43d6904e-069a-42dd-bbfe-afe678b51cd9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCoreAnnotations/SpringCoreAnnotations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDependencyInjection/SpringDependencyInjection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIOC/SpringIOC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseapi2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/security-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvcdemo1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvcdemo2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvcdemo3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springrestapi1.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bJ1nlEmNmmSTocBiBO2TpfAd6D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mobile.MainApp" />
+      <module name="SpringDependencyInjection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mobile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43d6904e-069a-42dd-bbfe-afe678b51cd9" name="Changes" comment="" />
+      <created>1705918538184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705918538184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
